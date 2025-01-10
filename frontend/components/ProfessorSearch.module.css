@@ -1,0 +1,54 @@
+.searchContainer {
+  position: relative;
+  width: 100%;
+}
+
+.bannerBackground {
+  background-image: 
+    url('/bull.svg'), url('/bull.svg'), url('/bull.svg'), url('/bull.svg'), url('/bull.svg'),
+    url('/bull.svg'), url('/bull.svg'), url('/bull.svg'), url('/bull.svg'), url('/bull.svg'),
+    url('/bull.svg'), url('/bull.svg'), url('/bull.svg'), url('/bull.svg'), url('/bull.svg'),
+    url('/bull.svg'), url('/bull.svg'), url('/bull.svg'), url('/bull.svg'), url('/bull.svg');
+  background-size: 
+    160px 128px, 160px 128px, 160px 128px, 160px 128px, 160px 128px,
+    160px 128px, 160px 128px, 160px 128px, 160px 128px, 160px 128px,
+    160px 128px, 160px 128px, 160px 128px, 160px 128px, 160px 128px,
+    160px 128px, 160px 128px, 160px 128px, 160px 128px, 160px 128px;
+  background-repeat: no-repeat;
+  background-position: 
+    var(--offset-1) var(--offset-2),
+    var(--offset-3) var(--offset-4),
+    var(--offset-5) var(--offset-6),
+    var(--offset-7) var(--offset-8),
+    var(--offset-9) var(--offset-10),
+    var(--offset-11) var(--offset-12),
+    var(--offset-13) var(--offset-14),
+    var(--offset-15) var(--offset-16),
+    var(--offset-17) var(--offset-18),
+    var(--offset-19) var(--offset-20),
+    var(--offset-21) var(--offset-22),
+    var(--offset-23) var(--offset-24),
+    var(--offset-25) var(--offset-26),
+    var(--offset-27) var(--offset-28),
+    var(--offset-29) var(--offset-30),
+    var(--offset-31) var(--offset-32),
+    var(--offset-33) var(--offset-34),
+    var(--offset-35) var(--offset-36),
+    var(--offset-37) var(--offset-38),
+    var(--offset-39) var(--offset-40);
+  background-blend-mode: soft-light;
+  background-attachment: fixed;
+}
+
+.whiteOverlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgb(255 255 255 / 0.97);
+}
+
+.contentContainer {
+  position: relative;
+  width: 100%;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+} 
