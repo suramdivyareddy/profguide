@@ -4,6 +4,9 @@
 
 **ProfGuide** is a university-specific course and professor rating portal designed to provide students with **reliable and detailed feedback** to help them make informed academic decisions. Unlike existing platforms like RateMyProfessors, ProfGuide ensures that only **verified students** who have completed a course can submit reviews. This approach aims to address the issues of biased and anonymous reviews, providing a more trustworthy resource for students. The platform also provides **valuable insights for professors** to enhance their teaching strategies.
 
+![Screenshot 2024-12-08 161534](https://github.com/user-attachments/assets/2f2cd4d3-fa48-43dd-a6e0-1cb19ab60cf2)
+
+
 ## Key Features
 
 *   **Verified Reviews:** Only students who have completed a course can leave reviews, ensuring the feedback is relevant and credible.
