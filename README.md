@@ -4,7 +4,7 @@
 
 **ProfGuide** is a university-specific course and professor rating portal designed to provide students with **reliable and detailed feedback** to help them make informed academic decisions. Unlike existing platforms like RateMyProfessors, ProfGuide ensures that only **verified students** who have completed a course can submit reviews. This approach aims to address the issues of biased and anonymous reviews, providing a more trustworthy resource for students. The platform also provides **valuable insights for professors** to enhance their teaching strategies.
 
-![Screenshot 2024-12-08 161534](https://github.com/user-attachments/assets/2f2cd4d3-fa48-43dd-a6e0-1cb19ab60cf2)
+![Screenshot 2024-12-03 010543](https://github.com/user-attachments/assets/48a6c342-e349-44eb-927c-3ea00f735108)
 
 
 ## Key Features
@@ -21,6 +21,7 @@
 *   **Syllabus Summaries:** Each course page includes a summary of the syllabus, outlining key topics, grading criteria, and expected workload.
 *   **User-Friendly Interface:** The platform is designed to be intuitive and easy to navigate, allowing students to quickly find the information they need.
 *    **Search Functionality**: Students can search for courses or professors by name, department, or keywords .
+![Screenshot 2024-12-03 010619](https://github.com/user-attachments/assets/ffb78a67-86b8-4e3d-945f-04535e3f8fe3)
 
 ## Problems Addressed
 
@@ -56,10 +57,6 @@ The main goals of this project are to:
 *   Foster **constructive feedback for professors**.
 *   Encourage **student engagement**.
 *   Ultimately contribute to enhancing the overall **educational experience** for all stakeholders involved.
-
-## Research and User Interviews
-
-The design of ProfGuide was heavily influenced by user research and interviews conducted with four students from diverse academic backgrounds. These interviews highlighted the need for verified reviews, course-specific details, and transparency in course information.
 
 ## Future Enhancements
 The platform will also include mechanisms for ongoing feedback, enabling users to share their thoughts on the effectiveness of the platform itself.
